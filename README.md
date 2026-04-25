@@ -18,9 +18,9 @@ This project simulates buying Powerball or Mega Millions lottery tickets from a 
 
 ## Screenshots
 
-![Homepage](public\demoPicture1.PNG)
-![Catalog](public\demoPicture2.PNG)
-![Account](public\demoPicture3.PNG)
+![Menu](pictures/demoPicture1.PNG)
+![Powerball](pictures/demoPicture2.PNG)
+![Mega-Millions](pictures/demoPicture3.PNG)
 ## Installation
 To clone the repo:
 ```
