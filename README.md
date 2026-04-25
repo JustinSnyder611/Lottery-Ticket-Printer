@@ -8,9 +8,8 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Screenshots](#screenshots)
-3. [Live Website](#live-website)
-4. [Installation](#installation)
-5. [License](#license)
+3. [Installation](#installation)
+4. [License](#license)
 
 ## Description
 
